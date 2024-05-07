@@ -16,6 +16,8 @@ ssh -p 52760 ctf-player@atlas.picoctf.net
 
 ![image](https://github.com/HAW-THL/Write-ups/assets/90260119/f145c332-bd36-46a3-a082-6638444ebb0e)
 
+![image](https://github.com/HAW-THL/Write-ups/assets/90260119/7a2fdf2f-a3d5-4c9e-818f-94f4d0fad8a1)
+
 - 500
 > Immer mit 500 starten, da es die Hälfte von 1 und 1000 ist.
 
@@ -33,8 +35,6 @@ ssh -p 52760 ctf-player@atlas.picoctf.net
 
 - 615
 > bei 615 Glück gehabt.
-
-![image](https://github.com/HAW-THL/Write-ups/assets/90260119/7a2fdf2f-a3d5-4c9e-818f-94f4d0fad8a1)
 
 ```
 picoCTF{g00d_gu355_2e90d29b}
