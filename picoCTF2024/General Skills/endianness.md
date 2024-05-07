@@ -1,4 +1,4 @@
-![image](https://github.com/HAW-THL/Write-ups/assets/90260119/88643172-1974-4cc7-aa00-6743bc63674d)# endianness [200]
+# endianness [200]
 ## Team: cleme, woehnert, Noerten, Michael, z0
 
 ![image](https://github.com/HAW-THL/Write-ups/assets/90260119/d009728f-0cd7-4c64-8190-b09366167d26)
