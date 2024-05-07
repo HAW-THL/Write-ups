@@ -5,28 +5,37 @@
 
 - Login mit NCat.
 
-```bash
-nc titan.picoctf.net 61746
+```
+nc titan.picoctf.net 65351
 ```
 
-![image](https://github.com/HAW-THL/Write-ups/assets/90260119/77a390c9-020d-4336-8e75-39b97ae72981)
+![image](https://github.com/HAW-THL/Write-ups/assets/90260119/4c44322b-b4d6-4ba9-a282-221b101ec460)
 
-- Das Wort: "vlqap" konvertieren wir jetzt mit [CyberChef](https://gchq.github.io/CyberChef/) zu Hex.
+- Das Wort: "oyqci" konvertieren wir jetzt mit [CyberChef](https://gchq.github.io/CyberChef/) zu Hex.
 
-![image](https://github.com/HAW-THL/Write-ups/assets/90260119/ff39a85c-8ae0-4079-87f4-c69307f2f18c)
+![image](https://github.com/HAW-THL/Write-ups/assets/90260119/8376a717-4bb9-46ae-87df-629659e142d6)
 
 ```
-76 6c 71 61 70
+6f 79 71 63 69
 ```
 - Das Ergebnis ist nun unser "Big Endian".
 - Diesen können wir jetzt wieder mit CyberChef zu dem "Little Endian" umwandeln, allerdings bevorzuge ich eher [save-editor](https://www.save-editor.com/tools/wse_hex.html).
 
-![image](https://github.com/HAW-THL/Write-ups/assets/90260119/95982343-9769-4f44-8130-d68830c4faf1)
+![image](https://github.com/HAW-THL/Write-ups/assets/90260119/30454a29-3422-49fc-add9-df2c9aacbaeb)
 
 ```
-70 61 71 6c 76
+69 63 71 79 6f
 ```
 - Dieses Ergebnus ist nun unser 'Little Endian".
 
 > Hier ist eine Grafik, die den Hinterrgundprozess erklärt
+
 ![image](https://de.wikipedia.org/wiki/Byte-Reihenfolge#/media/Datei:32bit-Endianess.svg)
+
+- Nun geben wir unsere Ergebnisse ein.
+
+![image](https://github.com/HAW-THL/Write-ups/assets/90260119/6263976c-a267-4969-a5f4-eab044162ac3)
+
+```
+picoCTF{3ndi4n_sw4p_su33ess_25c5f083}
+```
