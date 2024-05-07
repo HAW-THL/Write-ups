@@ -26,7 +26,7 @@ nc titan.picoctf.net 65351
 ```
 69 63 71 79 6f
 ```
-- Dieses Ergebnus ist nun unser 'Little Endian".
+- Dieses Ergebnis ist nun unser 'Little Endian".
 
 > Hier ist eine Grafik, die den Hinterrgundprozess erklärt
 
