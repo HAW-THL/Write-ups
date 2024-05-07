@@ -6,7 +6,7 @@
 - Login mit NCat.
 
 ```bash
-nc titan.picoctf.net 50558
+nc titan.picoctf.net 61746
 ```
 
 ![image](https://github.com/HAW-THL/Write-ups/assets/90260119/77a390c9-020d-4336-8e75-39b97ae72981)
