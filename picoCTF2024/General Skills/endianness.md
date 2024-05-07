@@ -3,7 +3,7 @@
 
 ![image](https://github.com/HAW-THL/Write-ups/assets/90260119/d009728f-0cd7-4c64-8190-b09366167d26)
 
-- Login mit NCat.
+- Login mit NetCat.
 
 ```
 nc titan.picoctf.net 65351
