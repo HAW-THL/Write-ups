@@ -33,7 +33,11 @@ nc tethys.picoctf.net 58476
 ![image](https://github.com/HAW-THL/Write-ups/assets/90260119/f883b697-49da-4c8e-b196-24deefdd8dc7)
 
 - Nun können wir zurück ins "player" Verzeichnis gehen und das originale Banner löschen.
-- Danach erstellen wir einen [Symlink]() von der Flagge, im "player" Verzeichnis, die wir "banner" nennen.
+- Danach erstellen wir einen [Symlink](https://en.wikipedia.org/wiki/Symbolic_link) von der Flagge, im "player" Verzeichnis, die wir "banner" nennen.
+```
+ln -s /root/flag.txt banner
+```
+> Dieser Befehl erstellt einen symbolischen Link namens "banner" im aktuellen Verzeichnis, der auf die Datei "/root/flag.txt" verweist. Symbolische Links sind Verknüpfungen zu Dateien oder Verzeichnissen, die auf andere Dateien oder Verzeichnisse verweisen. In diesem Fall würde der symbolische Link "banner" auf die Datei "/root/flag.txt" zeigen.
 
 - Jetzt können wir uns erneut mit dem Server verbinden, sodass wir bei der Verbindung mit dem Server nicht das eigentliche Banner, sondern die Flagge gelesen wird.
 
