@@ -30,7 +30,7 @@ nc titan.picoctf.net 65351
 
 > Hier ist eine Grafik, die den Hinterrgundprozess erklärt
 
-![image](https://de.wikipedia.org/wiki/Byte-Reihenfolge#/media/Datei:32bit-Endianess.svg)
+![image](https://github.com/HAW-THL/Write-ups/assets/90260119/74078ce7-7d82-42d4-bcdf-398062de5ca4)
 
 - Nun geben wir unsere Ergebnisse ein.
 
