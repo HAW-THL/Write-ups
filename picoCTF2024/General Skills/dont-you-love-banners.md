@@ -39,7 +39,7 @@ ln -s /root/flag.txt banner
 ```
 > Dieser Befehl erstellt einen symbolischen Link namens "banner" im aktuellen Verzeichnis, der auf die Datei "/root/flag.txt" verweist. Symbolische Links sind Verknüpfungen zu Dateien oder Verzeichnissen, die auf andere Dateien oder Verzeichnisse verweisen. In diesem Fall würde der symbolische Link "banner" auf die Datei "/root/flag.txt" zeigen.
 
-- Jetzt können wir uns erneut mit dem Server verbinden, sodass wir bei der Verbindung mit dem Server nicht das eigentliche Banner, sondern die Flagge gelesen wird.
+- Jetzt können wir uns erneut mit dem Server verbinden, sodass wir bei der Verbindung mit dem Server nicht das eigentliche Banner, sondern die Flagge lesen.
 
 ![image](https://github.com/HAW-THL/Write-ups/assets/90260119/3648bf51-1c7c-4914-8e60-a7138843cfc8)
 
