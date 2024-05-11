@@ -16,6 +16,10 @@ ssh -p 52760 ctf-player@atlas.picoctf.net
 
 ![image](https://github.com/HAW-THL/Write-ups/assets/90260119/f145c332-bd36-46a3-a082-6638444ebb0e)
 
+> Erster Hint
+
+![image](https://github.com/HAW-THL/Write-ups/assets/90260119/3a809609-56ed-459e-a954-ad5a91f50ed1)
+
 ![image](https://github.com/HAW-THL/Write-ups/assets/90260119/7a2fdf2f-a3d5-4c9e-818f-94f4d0fad8a1)
 
 - 500
