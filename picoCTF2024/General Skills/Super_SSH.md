@@ -9,6 +9,8 @@
 ssh ctf-player@titan.picoctf.net -p 51351
 ```
 
+- Den Fingerprint mit "yes" akzeptieren
+
 - Passwort eingeben:
 ```
 6dd28e9b
