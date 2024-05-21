@@ -3,7 +3,7 @@
 
 ![image](https://github.com/HAW-THL/Write-ups/assets/90260119/b9e80ad7-b42e-4698-b5d4-18ca6519aa82)
 
-- Download die gegebene Datei "challenge.zip":
+- Downloade die gegebene Datei "challenge.zip":
 ```
 wget https://artifacts.picoctf.net/c_titan/75/challenge.zip
 ```
