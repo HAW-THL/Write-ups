@@ -51,9 +51,10 @@ index 77d6cec..78ac69c 100644
 
 *wechseln in den part-2*
 
-┌──(kali㉿Noertbook)-[~/Pico/CollabDev/drop-in]
+`┌──(kali㉿Noertbook)-[~/Pico/CollabDev/drop-in]
 └─$ git switch feature/part-2
 Switched to branch 'feature/part-2'
+`
 
 *den Inhalt des Branches Part-2 anzeigen*
 
