@@ -2,7 +2,8 @@
 ---
 ## Team: woehnert, Moritz, z0
 ---
-![alt text](image.png)
+![image](https://github.com/HAW-THL/Write-ups/assets/80387757/10245860-207e-49d6-8ec2-f2c0ab6968ed)
+
 - Mit dem Kommando aus der Aufgabe landet man auf einem Netcat Server, der einen Binäroperationen rechnen lässt
 
 ```shell
